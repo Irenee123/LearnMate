@@ -109,7 +109,7 @@ ROC AUC score
 Confusion matrix
 
 ## 🎥 Video Presentation
-[Link to 5-minute presentation video] - Covers dataset overview, model architectures, optimization techniques, result analysis, and conclusions.
+[[presentation video](https://drive.google.com/file/d/18RVAitZIxm_BaViAihESvU3qpBXdpt-n/view?usp=sharing)] 
 
 ## 🙌 Author
 **Irenee Gisubizo Dusingizimana**  
