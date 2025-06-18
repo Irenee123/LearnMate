@@ -97,10 +97,15 @@ LearnMate/
 The notebook imports key metrics for error analysis:
 
 Accuracy
+
 Precision
+
 Recall
+
 F1-score
+
 ROC AUC score
+
 Confusion matrix
 
 ## 🎥 Video Presentation
