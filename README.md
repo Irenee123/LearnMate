@@ -47,13 +47,10 @@ The neural network architecture includes:
 
 ## 🔍 Key Findings
 
-1. The **Adam optimizer with L2 regularization, dropout, and early stopping** (Instance 4) achieved the best performance (90% accuracy), demonstrating the effectiveness of combining multiple optimization techniques.
+1. The **Adam optimizer with L2 regularization, dropout, and early stopping** achieved the best performance (96% accuracy), demonstrating the effectiveness of combining multiple optimization techniques.
 
-2. **Dropout and early stopping** significantly improved model generalization compared to the baseline.
+2. The **Logistic Regression model** performed remarkably well (88.93% accuracy), showing that classical ML models can be competitive for structured binary feature sets.
 
-3. The **Logistic Regression model** performed remarkably well (88.93% accuracy), showing that classical ML models can be competitive for structured binary feature sets.
-
-4. The **SGD optimizer with L2 regularization** underperformed, likely due to its slower convergence and lack of additional regularization techniques.
 
 ## 🚀 How to Use
 
