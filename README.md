@@ -82,11 +82,11 @@ LearnMate/
 ├── notebook.ipynb          
 ├── README.md               
 ├── saved_models/           
-│   ├── Model1
-│   ├── Model2
-│   ├── Model3
-│   ├── Model4
-│   └── Model5
+│   ├── adam_l2_dropout_nn_model.h5
+│   ├── logistic_model.h5
+│   ├── rmsprop_l1_dropout_nn_model.h5
+│   ├── sgd_dropout_nn_model.h5
+│   └── simple_nn_model.h5
 ├── diagram/               # Architecture diagrams
 │   └── model.png
 └── Dataset (CSV)
