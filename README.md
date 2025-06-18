@@ -19,7 +19,7 @@ The neural network architecture includes:
 - **Hidden Layers**: 
   - 64 neurons (ReLU activation)
   - 32 neurons (ReLU activation) 
-  - 16 neurons (ReLu activation)
+  - 20 neurons (ReLu activation)
 - **Output Layer**: 1 neurons (sigmoid) 
 
 ![Model Architecture](diagram/model.png)
