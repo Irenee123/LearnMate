@@ -93,13 +93,20 @@ LearnMate/
 ```
 
 ## 📈 Error Analysis
-The model was evaluated using comprehensive metrics:
-- Accuracy: 90.00%
-- Precision: 0.9003
-- Recall: 0.9000
-- F1 Score: 0.8997
-- Confusion Matrix (visualized in notebook)
-- Per-class evaluation metrics
+
+The notebook imports key metrics for error analysis:
+
+Accuracy
+
+Precision
+
+Recall
+
+F1-score
+
+ROC AUC score
+
+Confusion matrix
 
 ## 🎥 Video Presentation
 [Link to 5-minute presentation video] - Covers dataset overview, model architectures, optimization techniques, result analysis, and conclusions.
