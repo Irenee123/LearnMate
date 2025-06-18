@@ -1,5 +1,3 @@
-# LearnMatee
-# IntroSummative
 # LearnMate
 
 ## 🎯 Objective
