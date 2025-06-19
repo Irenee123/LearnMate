@@ -109,7 +109,7 @@ ROC AUC score
 Confusion matrix
 
 ## 🎥 Video Presentation
-[[presentation video](https://drive.google.com/file/d/18RVAitZIxm_BaViAihESvU3qpBXdpt-n/view?usp=sharing)] 
+[[LearnMate Presentation Video](https://drive.google.com/file/d/1UZ30Ud7y8ph1fa4jKrkd4D7l7fGcMPM4/view?usp=sharing)] 
 
 ## 🙌 Author
 **Irenee Gisubizo Dusingizimana**  
