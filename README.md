@@ -98,15 +98,16 @@ The notebook imports key metrics for error analysis:
 
 Accuracy: 99%
 
-Precision: 0.9852
+Precision: 0.9841
 
-Recall: 0.9920
+Recall: 0.9897
 
-F1-score:  0.9886
+F1-score:  0.9869
 
-ROC AUC score: 0.9996
+ROC AUC score: 0.9997
 
-Confusion matrix (You can find i notebook)
+Confusion matrix (You can find in notebook or down here)
+![Error Analysis](diagram/Analysis.png)
 
 ## 🎥 Video Presentation
 [[LearnMate Presentation Video](https://drive.google.com/file/d/1UZ30Ud7y8ph1fa4jKrkd4D7l7fGcMPM4/view?usp=sharing)] 
